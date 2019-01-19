@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 
-import './AddMovie.css';
 
 class AddMovie extends Component {
   shouldComponentUpdate(nextProps, nextState) {
